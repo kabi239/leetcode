@@ -17,20 +17,6 @@ I will be solving problems in the following programming languages:
 - Python
 - Java
 
-## Progress Tracker
-
-| Problem ID | Title                 | Difficulty | Language | Date Solved |
-|------------|-----------------------|------------|----------|-------------|
-| 1          | Two Sum               | Easy       | Java     | 2024-12-17  |
-| 2          | Add Two Numbers       | Medium     | Java     | 2024-12-17  |
-| 9          | Palindrome Number     | Easy       | Java     | 2024-12-17  |
-| 13         | Roman to Integer      | Easy       | Java     | 2024-12-17  |
-| 14         | Longest Common Prefix | Easy       | Java     | 2024-12-17  |
-| 20         | Valid Parentheses     | Easy       | Java     | 2024-12-17  |
-| 21         | Merge k Sorted Lists  | Easy       | Java     | 2024-12-17  |
-| 26         | Remove Duplicates from Sorted Array     | Easy       | Java     | 2024-12-17  |
-> Note: This table will be updated as I solve more problems.
-
 ## Contributions
 
 This repository is primarily for personal learning and growth, but if you have any suggestions for improvement or alternative solutions, feel free to submit a pull request or open an issue.
@@ -44,3 +30,75 @@ This repository is primarily for personal learning and growth, but if you have a
 
 This repository is licensed under the MIT License. Feel free to use the solutions for learning purposes but refrain from submitting them directly to LeetCode.
 
+## Progress Tracker
+
+<div style="height: 100px; overflow-y: auto;">
+  <table>
+    <tr>
+      <th>Problem ID</th>
+      <th>Title</th>
+      <th>Difficulty</th>
+      <th>Language</th>
+      <th>Date Solved</th>
+    </tr>
+    <tr>
+            <td>1</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Add Two Numbers</td>
+            <td>Medium</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Palindrome Number</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Roman to Integer</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Longest Common Prefix</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Valid Parentheses</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Merge k Sorted Lists</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>Remove Duplicates from Sorted Array</td>
+            <td>Easy</td>
+            <td>Java</td>
+            <td>2024-12-17</td>
+        </tr>
+    <!-- Add more rows as needed -->
+  </table>
+</div>
+
+> Note: This table will be updated as I solve more problems.
