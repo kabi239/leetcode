@@ -21,9 +21,14 @@ I will be solving problems in the following programming languages:
 
 | Problem ID | Title                 | Difficulty | Language | Date Solved |
 |------------|-----------------------|------------|----------|-------------|
-| 1          | Two Sum              | Easy       | Python   | YYYY-MM-DD  |
-| ...        | ...                   | ...        | ...      | ...         |
-
+| 1          | Two Sum               | Easy       | Java     | 2024-12-17  |
+| 2          | Add Two Numbers       | Medium     | Java     | 2024-12-17  |
+| 9          | Palindrome Number     | Easy       | Java     | 2024-12-17  |
+| 13         | Roman to Integer      | Easy       | Java     | 2024-12-17  |
+| 14         | Longest Common Prefix | Easy       | Java     | 2024-12-17  |
+| 20         | Valid Parentheses     | Easy       | Java     | 2024-12-17  |
+| 21         | Merge k Sorted Lists  | Easy       | Java     | 2024-12-17  |
+| 26         | Remove Duplicates from Sorted Array     | Easy       | Java     | 2024-12-17  |
 > Note: This table will be updated as I solve more problems.
 
 ## Contributions
