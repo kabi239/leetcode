@@ -97,7 +97,63 @@ This repository is licensed under the MIT License. Feel free to use the solution
             <td>Java</td>
             <td>2024-12-17</td>
         </tr>
-    <!-- Add more rows as needed -->
+    <tr>
+   <td>27</td>
+   <td>Remove Element</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>28</td>
+   <td>Find the Index of the First Occurrence in a String</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>35</td>
+   <td>Search Insert Position</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>48</td>
+   <td>Rotate Image</td>
+   <td>Medium</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>58</td>
+   <td>Length of Last Word</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>167</td>
+   <td>Two Sum II - Input Array Is Sorted</td>
+   <td>Mwdium</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>189</td>
+   <td>Rotate Array</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>268</td>
+   <td>Missing Number</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+
   </table>
 </div>
 
