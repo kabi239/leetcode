@@ -135,7 +135,7 @@ This repository is licensed under the MIT License. Feel free to use the solution
 <tr>
    <td>167</td>
    <td>Two Sum II - Input Array Is Sorted</td>
-   <td>Mwdium</td>
+   <td>Medium</td>
    <td>Java</td>
    <td>2024-12-18</td>
 </tr>
