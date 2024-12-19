@@ -1,6 +1,6 @@
 # LeetCode Practice Repository
 
-Welcome to my LeetCode Practice Repository! This repository is a collection of my solutions to LeetCode problems as I practice data structures, algorithms, and problem-solving.
+Welcome to my LeetCode Practice Repository! This repository contains my solutions to LeetCode problems as I practice data structures, algorithms, and problem-solving.
 
 ## Purpose
 
@@ -8,7 +8,7 @@ The primary goals of this repository are:
 
 - To track my progress and improvement over time.
 - To serve as a reference for future problem-solving.
-- To document solutions in a clear and understandable manner for anyone interested in learning.
+- To document solutions clearly and understandably for anyone interested in learning.
 
 ## Languages Used
 
@@ -142,13 +142,27 @@ This repository is licensed under the MIT License. Feel free to use the solution
 <tr>
    <td>189</td>
    <td>Rotate Array</td>
-   <td>Easy</td>
+   <td>Medium</td>
    <td>Java</td>
    <td>2024-12-18</td>
 </tr>
 <tr>
    <td>268</td>
    <td>Missing Number</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>283</td>
+   <td>Move Zeroes</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2024-12-18</td>
+</tr>
+<tr>
+   <td>3033</td>
+   <td>Modify the Matrix</td>
    <td>Easy</td>
    <td>Java</td>
    <td>2024-12-18</td>
