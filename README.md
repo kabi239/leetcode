@@ -151,21 +151,21 @@ This repository is licensed under the MIT License. Feel free to use the solution
    <td>Missing Number</td>
    <td>Easy</td>
    <td>Java</td>
-   <td>2024-12-18</td>
+   <td>2024-12-19</td>
 </tr>
 <tr>
    <td>283</td>
    <td>Move Zeroes</td>
    <td>Easy</td>
    <td>Java</td>
-   <td>2024-12-18</td>
+   <td>2024-12-19</td>
 </tr>
 <tr>
    <td>3033</td>
    <td>Modify the Matrix</td>
    <td>Easy</td>
    <td>Java</td>
-   <td>2024-12-18</td>
+   <td>2024-12-19</td>
 </tr>
 
   </table>
