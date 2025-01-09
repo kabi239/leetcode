@@ -167,6 +167,13 @@ This repository is licensed under the MIT License. Feel free to use the solution
    <td>Java</td>
    <td>2024-12-19</td>
 </tr>
+<tr>
+   <td>66</td>
+   <td>Plus One</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2025-1-9</td>
+</tr>
 
   </table>
 </div>
