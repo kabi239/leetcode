@@ -18,4 +18,8 @@ public class RotateString {
         }
         return false;
     }
+    //          OR
+    public boolean rotateString1(String s, String goal) {
+        return s.length()==goal.length() && (s+s).contains(goal);
+    }
 }
