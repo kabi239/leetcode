@@ -188,6 +188,14 @@ This repository is licensed under the MIT License. Feel free to use the solution
    <td>Java</td>
    <td>2025-2-11</td>
 </tr>
+    <tr>
+   <td>130</td>
+   <td>Surrounded Regions</td>
+   <td>Medium</td>
+   <td>Java</td>
+   <td>2025-2-12</td>
+</tr>
+    
   </table>
 </div>
 
