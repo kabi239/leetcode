@@ -195,6 +195,14 @@ This repository is licensed under the MIT License. Feel free to use the solution
    <td>Java</td>
    <td>2025-2-12</td>
 </tr>
+</tr>
+    <tr>
+   <td>67</td>
+   <td>Add Binary</td>
+   <td>Easy</td>
+   <td>Java</td>
+   <td>2025-2-19</td>
+</tr>
     
   </table>
 </div>
