@@ -203,6 +203,14 @@ This repository is licensed under the MIT License. Feel free to use the solution
    <td>Java</td>
    <td>2025-2-19</td>
 </tr>
+</tr>
+    <tr>
+   <td>4</td>
+   <td>Median of Two Sorted Arrays</td>
+   <td>Hard</td>
+   <td>Java</td>
+   <td>2025-2-28</td>
+</tr>
     
   </table>
 </div>
